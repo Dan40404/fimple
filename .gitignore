@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea
+server/fimple/db.sqlite3
+server/fimple/fimpleAPI/migrations/*
+
+client/node_modules
+
+*.pyc
+*.pyo
+*.pyd
+__pycache__
