@@ -1,5 +1,7 @@
 # Fimple Project
 
+<img src="https://media.lordicon.com/icons/wired/lineal/2531-recurring-cash.gif" >
+
 ## Overview
 
 Fimple is a web application designed to manage and predict financial assets. It provides functionalities to add, update, and remove assets, as well as to calculate predictions based on user inputs.
