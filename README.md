@@ -1,6 +1,9 @@
-# Fimple Project
 
-<img src="https://media.lordicon.com/icons/wired/lineal/2531-recurring-cash.gif" >
+
+<div align="center">
+    <h1>Fimple</h1>
+    <img src="https://media.lordicon.com/icons/wired/lineal/2531-recurring-cash.gif" width="100" height="100">
+</div>
 
 ## Overview
 
